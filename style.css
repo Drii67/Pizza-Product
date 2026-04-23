@@ -1,0 +1,68 @@
+.Logo {
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 50%;
+}
+
+.Head1 {
+    background-color: rgb(194, 141, 116);
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 300px;
+    border-radius: 20px;
+    border: 3px solid rgb(92, 25, 1);
+}
+body {
+    background-color: rgb(247, 162, 83);
+}
+
+.H {
+    background-color: rgb(194, 141, 116);
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 45px;
+    border-radius: 20px;
+    border: 2px solid rgb(92, 25, 1);
+    text-decoration: none;
+}
+
+.P{
+    background-color: rgb(194, 141, 116);
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 45px;
+    border-radius: 20px;
+    border: 2px solid rgb(92, 25, 1);
+    text-decoration: none;
+}
+
+.A{
+    background-color: rgb(194, 141, 116);
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 45px;
+    border-radius: 20px;
+    border: 2px solid rgb(92, 25, 1);
+    text-decoration: none;    
+}
+
+.C{
+    background-color: rgb(194, 141, 116);
+    color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    width: 45px;
+    border-radius: 20px;
+    border: 2px solid rgb(92, 25, 1);
+    text-decoration: none;    
+}
+
+.Product{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    height: 200px;
+    width: 200px;
+}
